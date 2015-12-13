@@ -1,4 +1,4 @@
-phonegap-admob-demo
+phonegap-my sunday app
 ===================
 
 my first try at using demo app as reference
