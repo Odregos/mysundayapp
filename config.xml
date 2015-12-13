@@ -7,8 +7,8 @@ xmlns:gap="http://phonegap.com/ns/1.0"
 >
     <name>JumpRope</name>
     
-    <description>DemoApp for AdMob</description>
-    <author email="rjfun.mobile@gmail.com" href="http://rjfun.github.io/">RjFun</author>
+    <description>MySundayApp</description>
+    <author email="squidbeach@gmail.com" href="http://rjfun.github.io/">Odregos</author>
     <content src="index.html" />
     <access origin="*" />
 
