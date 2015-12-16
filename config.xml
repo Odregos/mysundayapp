@@ -3,13 +3,13 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.phonegap.mysundayapp"
+        id        = "com.phonegap.mycoffeeapp"
         version   = "1.0.0">
 
-    <name>Sunday App</name>
+    <name>CoffeeOrder</name>
 
     <description>
-        This is my sunday app Hello World sample application that responds to the deviceready event.
+        This is my coffee order app
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
